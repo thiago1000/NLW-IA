@@ -2,7 +2,8 @@
 
 Projeto de transcrição de vídeos com IA
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+![captura1](https://github.com/thiago1000/NLW-IA/assets/20708420/955e861c-9a94-483f-ab06-ed4a16ec4a63)
 
 
 ## Ferramentas utilizadas
